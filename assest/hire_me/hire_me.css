@@ -1,0 +1,33 @@
+.hero_content h2 span {
+    color: #20c997 !important;
+}
+section#hire_me {
+    position: relative;
+    top: 545px;
+}
+.hire_me_img {
+    width: 275px;
+    height: 275px;
+    border: 3px solid #0000007d;
+    border-radius: 100%;
+    margin-right: 35px;
+}
+
+.hire_me_img img {
+    width: 100%;
+    border-radius: 50%;
+    height: 100%;
+}
+.hire_me_contact {
+    width: 586px;
+    margin-left: 25px;
+}
+
+.hire_me_contact p {
+    color: #eeeeeede;
+    line-height: 33px;
+}
+.hire_me_contact h2 {
+    color: #ffffffe8;
+    margin-bottom: 25px;
+}
